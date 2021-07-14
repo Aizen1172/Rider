@@ -1,0 +1,2 @@
+2021/07/11 23:19:21.721297 F:/go/src/riderStyemProject/gorm.go:43: 创建表失败。
+2021/07/11 23:25:14.957213 F:/go/src/riderStyemProject/gorm.go:41: Error 1050: Table 'r_user' already exists 创建表失败。

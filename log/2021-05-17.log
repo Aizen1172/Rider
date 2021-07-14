@@ -1,0 +1,14 @@
+2021/05/17 16:16:54 错误：http://localhost:8080/ Get "http://localhost:8080/": dial tcp [::1]:8080: connectex: No connection could be made because the target machine actively refused it.
+2021/05/17 16:17:45 错误：http://localhost:8080/ Get "http://localhost:8080/": dial tcp [::1]:8080: connectex: No connection could be made because the target machine actively refused it.
+2021/05/17 16:35:45 成功：https://www.baidu.com/ 200 OK
+2021/05/17 16:42:56 错误：http://localhost:8080/ Get "http://localhost:8080/": dial tcp [::1]:8080: connectex: No connection could be made because the target machine actively refused it.
+2021/05/17 18:02:52 错误：http://localhost:8080/ Get "http://localhost:8080/": dial tcp [::1]:8080: connectex: No connection could be made because the target machine actively refused it.
+2021/05/17 18:03:09 骑士已存在，请重新命名。
+18:07:22.298931 错误：http://localhost:8080/ Get "http://localhost:8080/": dial tcp [::1]:8080: connectex: No connection could be made because the target machine actively refused it.
+18:07:22.863486 骑士已存在，请重新命名。
+2021/05/17 18:09:20.574950 F:/go/src/riderStyemProject/logger/logger.go:29: 错误：http://localhost:8080/ Get "http://localhost:8080/": dial tcp [::1]:8080: connectex: No connection could be made because the target machine actively refused it.
+2021/05/17 18:09:32.839436 F:/go/src/riderStyemProject/api/other.go:20: 骑士已存在，请重新命名。
+2021/05/17 18:24:15.309704 F:/go/src/riderStyemProject/service/other.go:20: 骑士已存在，请重新命名。
+2021/05/17 18:25:04.127386 F:/go/src/riderStyemProject/service/other.go:20: 骑士已存在，请重新命名。
+2021/05/17 18:32:57.960614 F:/go/src/riderStyemProject/service/other.go:20: 骑士已存在，请重新命名。
+2021/05/17 18:37:32.454893 F:/go/src/riderStyemProject/api/other.go:19: 骑士已存在，请重新命名。
